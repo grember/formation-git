@@ -1,0 +1,3 @@
+[submodule "tygs"]
+	path = tygs
+	url = https://github.com/Tygs/tygs.git
